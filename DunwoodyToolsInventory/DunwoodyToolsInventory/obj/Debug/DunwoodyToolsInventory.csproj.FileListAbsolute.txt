@@ -1,0 +1,2 @@
+G:\My Drive\Disabled Tenacity\Projects\Coding\GitHub\DunwoodyToolsInventory\DunwoodyToolsInventory\DunwoodyToolsInventory\obj\Debug\DunwoodyToolsInventory.csproj.AssemblyReference.cache
+G:\My Drive\Disabled Tenacity\Projects\Coding\GitHub\DunwoodyToolsInventory\DunwoodyToolsInventory\DunwoodyToolsInventory\obj\Debug\DunwoodyToolsInventory.csproj.CoreCompileInputs.cache
